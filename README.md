@@ -17,4 +17,5 @@ ________________________________________________________________________________
 
 ## Table of Contents
 [About the Guide](abouttheguide)
- [Configure Privacy Settings](configureprivacysettings)
+
+[Configure Privacy Settings](configureprivacysettings)
