@@ -6,4 +6,5 @@ All intellectual property rights, including copyrights, trademarks and database 
 
 ## Revision Histroy
 | S.No. | Reason for Revision | Revised/Updated By | Date | Approved By |
+| ---- | ------ | ------ | -------- | ------- |
 | 1. | Initial Draft | Rajat Sharma | 30 April,2023 | Scrum Master |
