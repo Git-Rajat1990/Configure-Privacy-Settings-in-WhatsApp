@@ -16,6 +16,5 @@ All intellectual property rights, including copyrights, trademarks and database 
 _______________________________________________________________________________________________________________________________________________________________________
 
 ## Table of Contents
-[About the Guide](abouttheguide)
-
+[About the Guide](abouttheguide) 
 [Configure Privacy Settings](configureprivacysettings)
