@@ -63,5 +63,22 @@ WhatsApp’s privacy settings allow you to restrict who can see your personal in
 5. In the top left-hand corner of your screen, tap **Account** to save your preferences and return to **Settings**.
 
 ### To configure Privacy settings on WhatsApp Web:
+1. Open the [URL: https://web.whatsapp.com/](https://web.whatsapp.com/) in a web browser to launch WhatsApp web.
+
+> **Note:**
+> * To successfully launch, you must have already logged in WhatsApp web previously.
+> * If you are a new user, follow the steps mentioned in ***Install and Configure WhatsApp Web*** to log in WhatsApp web.
+
+2. In the left pane top right-hand side corner, click more.
+<img width="450" alt="WhatsApp Web 1" src="https://user-images.githubusercontent.com/132737041/236615837-56485f0f-dd34-4ff5-854a-dcd59192eaa9.png">
+3. In the options displayed, click **Settings**, then **Privacy**.
+![WhatsApp Web 2](https://user-images.githubusercontent.com/132737041/236615844-dd7b5c91-0362-40d4-98ba-54b19b173b06.png)
+4. In the list of configurable actions displayed, click the action to select and configure as required.
+
+> **Note:**
+> * You may configure the options as per your personal preferences.
+> * A tool tip is provided below the action to assist you performing that action.
+
+5. Click **Privacy** to save your preferences and return to **Settings**.
 
 
