@@ -42,7 +42,7 @@ WhatsApp’s privacy settings allow you to restrict who can see your personal in
 <img width="450" alt="WhatsApp Android" src="https://user-images.githubusercontent.com/132737041/236612792-74d9eedf-61c8-48d4-bc28-7e84abe2e75d.png">
 4. In the list of configurable actions displayed, tap the action to select and configure as required.
 
-6. Tap Back button on your Android mobile to save the changes.
+5. Tap Back button on your Android mobile to save the changes.
 
 > **Note:**
 > * You may configure the options as per your personal preferences.
