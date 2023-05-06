@@ -33,7 +33,8 @@ WhatsApp’s privacy settings allow you to restrict who can see your personal in
 
 >**Note:** You must have successfully logged in WhatsApp mobile or web using your registered mobile number.
 
-![WhatsApp Mobile](https://user-images.githubusercontent.com/132737041/236611917-ca79c701-4ed7-416f-ab6a-154d5b2c9fa4.png)
+<img width="100" alt="WhatsApp Mobile" src="https://user-images.githubusercontent.com/132737041/236612095-514eae22-060b-4b82-bcaf-1e7bbe1ba581.png">
+
 
 
 
