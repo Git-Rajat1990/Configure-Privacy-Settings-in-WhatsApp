@@ -18,9 +18,9 @@ ________________________________________________________________________________
 ## Table of Contents
 - [About the Guide](abouttheguide)
 - [Configure Privacy Settings](configureprivacysettings)
-* [To configure Privacy settings on an Andriod mobile](ToconfigurePrivacysettingsonanAndriodmobile)
-* [To configure Privacy settings on an iOS mobile](ToconfigurePrivacysettingsonaniOSmobile)
-* [To configure Privacy settings on WhatsApp web](ToconfigurePrivacysettingsonWhatsAppweb)
+         * [To configure Privacy settings on an Andriod mobile](ToconfigurePrivacysettingsonanAndriodmobile)
+         * [To configure Privacy settings on an iOS mobile](ToconfigurePrivacysettingsonaniOSmobile)
+         * [To configure Privacy settings on WhatsApp web](ToconfigurePrivacysettingsonWhatsAppweb)
 - [Troubleshooting Common Issues](TroubleshootingCommonIssues)
 
 ______________________________________________________________________________________________________________________________________________________________________
@@ -28,7 +28,9 @@ ________________________________________________________________________________
 # About the Guide
 
 This guide walks you through and explain the steps to configure your privacy settings on WhatsApp mobile, both Android and iOS, and WhatsApp web.
+
 WhatsApp’s privacy settings allow you to restrict who can see your personal info and set disappearing messages. There are also options to change Group settings, view Live Locations, view Blocked contacts, change Read receipts, and manage Fingerprint lock. These privacy settings allow you to manage how your personal data will be viewed and shared with other WhatsApp users.
+
 **Note:** You must have successfully logged in WhatsApp mobile or web using your registered mobile number.
 
 
