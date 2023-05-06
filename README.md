@@ -8,3 +8,5 @@ All intellectual property rights, including copyrights, trademarks and database 
 | S.No. | Reason for Revision | Revised/Updated By | Date | Approved By |
 | ---- | ------ | ------ | -------- | ------- |
 | 1. | Initial Draft | Rajat Sharma | 30 April,2023 | Scrum Master |
+| 2. | Release 1.0 changes | Rajat Sharma | 01 May,2023 | Scrum Master |
+| 3. | Release 1.1 changes | Rajat Sharma | 06 May,2023 | Scrum Master |
