@@ -69,8 +69,7 @@ WhatsApp’s privacy settings allow you to restrict who can see your personal in
 
 5. In the top left-hand corner of your screen, tap **Account** to save your preferences and return to **Settings**.
 
-### To configure Privacy settings on WhatsApp<img width="13" alt="WhatsApp Logo" src="https://user-images.githubusercontent.com/132737041/236616622-f23d98b6-780e-4d22-a674-a7296d0b4382.png">
- Web:
+### To configure Privacy settings on WhatsApp<img width="13" alt="WhatsApp Logo" src="https://user-images.githubusercontent.com/132737041/236616622-f23d98b6-780e-4d22-a674-a7296d0b4382.png">Web:
 1. Open the [URL: https://web.whatsapp.com/](https://web.whatsapp.com/) in a web browser to launch WhatsApp<img width="13" alt="WhatsApp Logo" src="https://user-images.githubusercontent.com/132737041/236616631-be4746f6-cd3b-4503-8496-9793828dcfeb.png">
  web.
 
