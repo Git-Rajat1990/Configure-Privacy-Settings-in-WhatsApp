@@ -28,16 +28,20 @@ ________________________________________________________________________________
 
 # About the Guide
 
-This guide walks you through and explain the steps to configure your privacy settings on WhatsApp mobile, both Android and iOS, and WhatsApp web.
+This guide walks you through and explain the steps to configure your privacy settings on WhatsApp<img width="13" alt="WhatsApp Logo" src="https://user-images.githubusercontent.com/132737041/236616541-e9322950-8790-46fe-a52e-87a381a47fd6.png">
+ mobile, both Android and iOS, and WhatsApp<img width="13" alt="WhatsApp Logo" src="https://user-images.githubusercontent.com/132737041/236616546-9d4f8dfe-9729-46b7-90c7-8654d5ddd3df.png">
+ web.
 
 WhatsApp’s privacy settings allow you to restrict who can see your personal info and set disappearing messages. There are also options to change Group settings, view Live Locations, view Blocked contacts, change Read receipts, and manage Fingerprint lock. These privacy settings allow you to manage how your personal data will be viewed and shared with other WhatsApp users.
 
->**Note:** You must have successfully logged in WhatsApp mobile or web using your registered mobile number.
+>**Note:** You must have successfully logged in WhatsApp<img width="13" alt="WhatsApp Logo" src="https://user-images.githubusercontent.com/132737041/236616563-6a951798-dadd-4907-bae6-4fe389351426.png">
+ mobile or web using your registered mobile number.
 
 # Configure Privacy Settings
 
 ### To configure Privacy settings on an Android mobile:
-1. On your Android mobile, tap WhatsApp  application to launch.
+1. On your Android mobile, tap WhatsApp<img width="13" alt="WhatsApp Logo" src="https://user-images.githubusercontent.com/132737041/236616575-05638176-9666-4d97-bb62-75ea07ceaf20.png">
+ application to launch.
 2. In the top right-hand corner of your screen, tap more.
 3. In the options displayed, tap **Settings**, then **Privacy**.
 <img width="450" alt="WhatsApp Android" src="https://user-images.githubusercontent.com/132737041/236613446-1ce225ae-fb15-44aa-add4-7797da8095a6.png">
@@ -50,7 +54,8 @@ WhatsApp’s privacy settings allow you to restrict who can see your personal in
 5. Tap Back button on your Android mobile to save the changes.
 
 ### To configure Privacy settings on an iOS mobile:
-1. On your iOS mobile, tap WhatsApp  application to launch.
+1. On your iOS mobile, tap WhatsApp<img width="13" alt="WhatsApp Logo" src="https://user-images.githubusercontent.com/132737041/236616599-9ffb513c-31fc-4947-afd6-c01109090e85.png">
+ application to launch.
 2. In the bottom right-hand corner of your screen, tap **Settings**, then **Account**.
 <img width="165" alt="WhatsApp iOS" src="https://user-images.githubusercontent.com/132737041/236614706-ecd56c0f-c7cc-442c-a974-bb06ed602d53.png">
 
@@ -64,8 +69,10 @@ WhatsApp’s privacy settings allow you to restrict who can see your personal in
 
 5. In the top left-hand corner of your screen, tap **Account** to save your preferences and return to **Settings**.
 
-### To configure Privacy settings on WhatsApp Web:
-1. Open the [URL: https://web.whatsapp.com/](https://web.whatsapp.com/) in a web browser to launch WhatsApp web.
+### To configure Privacy settings on WhatsApp<img width="13" alt="WhatsApp Logo" src="https://user-images.githubusercontent.com/132737041/236616622-f23d98b6-780e-4d22-a674-a7296d0b4382.png">
+ Web:
+1. Open the [URL: https://web.whatsapp.com/](https://web.whatsapp.com/) in a web browser to launch WhatsApp<img width="13" alt="WhatsApp Logo" src="https://user-images.githubusercontent.com/132737041/236616631-be4746f6-cd3b-4503-8496-9793828dcfeb.png">
+ web.
 
 > **Note:**
 > * To successfully launch, you must have already logged in WhatsApp web previously.
@@ -86,7 +93,8 @@ WhatsApp’s privacy settings allow you to restrict who can see your personal in
 5. Click **Privacy** to save your preferences and return to **Settings**.
 
 # Troubleshooting Common Issues
-This section deals with common issues faced while configuring WhatsApp on mobile or web, how to identify and resolve those issues.
+This section deals with common issues faced while configuring WhatsApp<img width="13" alt="WhatsApp Logo" src="https://user-images.githubusercontent.com/132737041/236616646-c2d87dcc-4a2b-4325-8607-9948bd882cb3.png">
+ on mobile or web, how to identify and resolve those issues.
 
 In case you face any problem, contact the technical support at [techsupport@whatsapp.com](mailto:techsupport@whatsapp.com).
 For information on troubleshooting the issues, see ***WhatsApp Troubleshooting Guide***.
