@@ -84,4 +84,8 @@ WhatsApp’s privacy settings allow you to restrict who can see your personal in
 
 5. Click **Privacy** to save your preferences and return to **Settings**.
 
+# Troubleshooting Common Issues
+This section deals with common issues faced while configuring WhatsApp on mobile or web, how to identify and resolve those issues.
 
+In case you face any problem, contact the technical support at [techsupport@whatsapp.com](mailto:techsupport@whatsapp.com).
+For information on troubleshooting the issues, see ***WhatsApp Troubleshooting Guide***.
