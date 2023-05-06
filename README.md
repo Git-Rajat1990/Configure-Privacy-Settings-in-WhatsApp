@@ -52,7 +52,8 @@ WhatsApp’s privacy settings allow you to restrict who can see your personal in
 1. On your iOS mobile, tap WhatsApp  application to launch.
 2. In the bottom right-hand corner of your screen, tap **Settings**, then **Account**.
 <img width="165" alt="WhatsApp iOS" src="https://user-images.githubusercontent.com/132737041/236614706-ecd56c0f-c7cc-442c-a974-bb06ed602d53.png">
-3. In the options displayed, tap  **Privacy**.
+3. In the options displayed, tap **Privacy**.
+
 <img width="500" alt="WhatsApp iOS 2" src="https://user-images.githubusercontent.com/132737041/236614717-18c3c7dc-e856-4c72-a135-01705c103780.png">
 4. In the list of configurable actions displayed, tap the action to select and configure as required.
 
@@ -71,8 +72,10 @@ WhatsApp’s privacy settings allow you to restrict who can see your personal in
 
 2. In the left pane top right-hand side corner, click more.
 <img width="450" alt="WhatsApp Web 1" src="https://user-images.githubusercontent.com/132737041/236615837-56485f0f-dd34-4ff5-854a-dcd59192eaa9.png">
+
 3. In the options displayed, click **Settings**, then **Privacy**.
 ![WhatsApp Web 2](https://user-images.githubusercontent.com/132737041/236615844-dd7b5c91-0362-40d4-98ba-54b19b173b06.png)
+
 4. In the list of configurable actions displayed, click the action to select and configure as required.
 
 > **Note:**
