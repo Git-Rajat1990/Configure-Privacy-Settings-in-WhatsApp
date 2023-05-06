@@ -33,7 +33,15 @@ WhatsApp’s privacy settings allow you to restrict who can see your personal in
 
 >**Note:** You must have successfully logged in WhatsApp mobile or web using your registered mobile number.
 
-
+<details>
+   <summary> Whatsapp </summary>
+   ### header
+   add text within collapsed section
+   add image
+   ```a
+   hello world
+   ```
+   </details>
 
 
 
