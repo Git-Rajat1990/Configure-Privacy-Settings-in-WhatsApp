@@ -19,10 +19,9 @@ ________________________________________________________________________________
 - [About the Guide](abouttheguide)
 - [Configure Privacy Settings](configureprivacysettings)
     * [To configure Privacy settings on an Andriod mobile](ToconfigurePrivacysettingsonanAndriodmobile)
-    * [To configure Privacy settings on an iOS m<img width="13" alt="WhatsApp Logo" src="https://user-images.githubusercontent.com/132737041/236616451-9dce2092-32cc-465e-88a8-b88af066de38.png">
-obile](ToconfigurePrivacysettingsonaniOSmobile)
-    * [To configure Privacy settings on WhatsApp ![Uploading WhatsApp Logo.png…]()
-web](ToconfigurePrivacysettingsonWhatsAppweb)
+    * [To configure Privacy settings on an iOS mobile](ToconfigurePrivacysettingsonaniOSmobile)
+    * [To configure Privacy settings on WhatsApp<img width="13" alt="WhatsApp Logo" src="https://user-images.githubusercontent.com/132737041/236616509-17324f03-5cdb-4d33-a994-61a0aa93ba7d.png">
+ Web](ToconfigurePrivacysettingsonWhatsAppweb)
 - [Troubleshooting Common Issues](TroubleshootingCommonIssues)
 
 ______________________________________________________________________________________________________________________________________________________________________
