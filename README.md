@@ -1,5 +1,5 @@
 # Configure-Privacy-Settings-in-WhatsApp
-##### This guide walks you through and explain the steps to configure your privacy settings on WhatsApp mobile, both Android and iOS, and WhatsApp web.
+This guide walks you through and explain the steps to configure your privacy settings on WhatsApp mobile, both Android and iOS, and WhatsApp web.
 
 _______________________________________________________________________________________________________________________________________________________________________
 ## Copyright Disclaimer
@@ -33,15 +33,7 @@ WhatsApp’s privacy settings allow you to restrict who can see your personal in
 
 >**Note:** You must have successfully logged in WhatsApp mobile or web using your registered mobile number.
 
-<details>
-   <summary> Whatsapp </summary>
-   ### header
-   add text within collapsed section
-   add image
-   ```a
-   hello world
-   ```
-   </details>
+
 
 
 
