@@ -18,9 +18,9 @@ ________________________________________________________________________________
 ## Table of Contents
 - [About the Guide](abouttheguide)
 - [Configure Privacy Settings](configureprivacysettings)
-         * [To configure Privacy settings on an Andriod mobile](ToconfigurePrivacysettingsonanAndriodmobile)
-         * [To configure Privacy settings on an iOS mobile](ToconfigurePrivacysettingsonaniOSmobile)
-         * [To configure Privacy settings on WhatsApp web](ToconfigurePrivacysettingsonWhatsAppweb)
+    * [To configure Privacy settings on an Andriod mobile](ToconfigurePrivacysettingsonanAndriodmobile)
+    * [To configure Privacy settings on an iOS mobile](ToconfigurePrivacysettingsonaniOSmobile)
+    * [To configure Privacy settings on WhatsApp web](ToconfigurePrivacysettingsonWhatsAppweb)
 - [Troubleshooting Common Issues](TroubleshootingCommonIssues)
 
 ______________________________________________________________________________________________________________________________________________________________________
